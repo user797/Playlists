@@ -1,6 +1,36 @@
+#EXTINF:-1  ,VHS
+https://v2.catcast.tv/content/44051/index.m3u8
+#EXTINF:-1  ,Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1  ,Детское кино International
+http://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1  ,Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1  ,Кино 18+ International 
 https://v2.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1  ,Музыка 1 International
 http://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1  ,Музыка 2 International
 https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1  ,Музыка 80-х
+https://s.catcast.tv/content/42148/index.m3u8?token=ec9741f37ae664938f75aaddf7d62173
+#EXTINF:-1  ,TMF RUS
+https://s.catcast.tv/content/43273/index.m3u8?token=07c1ff56101a3793fa7a1475e087445c
+#EXTINF:-1  ,КИНОКЛУБ
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=39005&token=8af7e7e365d1b0530e6e6f6921a0c702&server=v2.catcast.tv
+#EXTINF:-1  ,ВИДЕОСАЛОН VHS
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40391&token=07eccfd2a3cee1318c426a2f4eac801e&server=v2.catcast.tv
+#EXTINF:-1  ,OldSchool VHS
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=39780&token=d3762f9a51a03561a179e13dacaf4702&server=v2.catcast.tv
+#EXTINF:-1  ,КОМЕДИЯ (24/7)
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=43405&token=8b16c36432fd7402eac3f872bac50ba7&server=v2.catcast.tv
+#EXTINF:-1  ,Paramount Comedy (24/7)
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=43242&token=2d585bf6373817525fb53393fd8953ac&server=v2.catcast.tv
+#EXTINF:-1  ,ТВ XX-XXI Век
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=35688&token=f2999cdc6bb778d0479f16a6d11c7216&server=v2.catcast.tv
+#EXTINF:-1  ,Дисней
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=39025&token=6a3677d2a27f056f185b88fac19a80b4&server=v2.catcast.tv
+#EXTINF:-1  ,Сити Эдем ТВ
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=34246&token=26f60151eaf2a7307463ef113058189f&server=v2.catcast.tv
+#EXTINF:-1  ,4K — Кино и сериалы
+https://s.catcast.tv/content/42935/index.m3u8?token=3c59b8adba89e1bc3ece7b05b68c30af
