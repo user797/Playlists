@@ -43,49 +43,4 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:0 tvg-id="Retro TV"  tvg-logo="https://sledovanitv.cz/cache/logos256/retro.png"  timeshift="0", Retro TV
 #EXTGRP:9. Music/Музыка
-https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8 #EXTM3U
-#EXTINF:0 tvg-id="Deluxe Flashback"  tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_FLASHBACK_LOGO_RGB-1.png"  timeshift="0", Deluxe Flashback
-#EXTGRP:9. Music/Музыка
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
-#EXTINF:0 tvg-id="Muzzik Flashback"  tvg-logo="https://play-lh.googleusercontent.com/2JSy5UHG_ro3na_YnJv4G9BEZIcbFUryTnALufeD3bJ4gVY98vj2DHcMTWWQ07sd2JzN"  timeshift="0", Muzzik Flashback
-#EXTGRP:9. Music/Музыка
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:0 tvg-id="XITE 80s Flashback"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png"  timeshift="0", XITE 80s Flashback
-#EXTGRP:9. Music/Музыка
-https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
-#EXTINF:0 tvg-id="XITE 90s Throwback"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png"  timeshift="0", XITE 90s Throwback
-#EXTGRP:9. Music/Музыка
-https://i.mjh.nz/SamsungTVPlus/USBB3200007AK.m3u8
-#EXTINF:0 tvg-id="XITE R&B Classic Jams"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20231024T231919SQUARE.png_20231024231920.png"  timeshift="0", XITE R&B Classic Jams
-#EXTGRP:9. Music/Музыка
-https://i.mjh.nz/SamsungTVPlus/USBD330000948.m3u8
-#EXTINF:0 tvg-id="XITE Icons"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300005EX_20231024T231911SQUARE.png_20231024231912.png"  timeshift="0", XITE Icons
-#EXTGRP:9. Music/Музыка
-https://i.mjh.nz/SamsungTVPlus/USBD3300005EX.m3u8
-#EXTINF:0 tvg-id="Vevo 70s"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20230322T000018SQUARE.png_20230322000019.png"  timeshift="0", Vevo 70s
-#EXTGRP:9. Music/Музыка
-https://i.mjh.nz/SamsungTVPlus/USBD300011KQ.m3u8
-#EXTINF:0 tvg-id="Vevo 80s"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20230322T000021SQUARE.png_20230322000021.png"  timeshift="0", Vevo 80s
-#EXTGRP:9. Music/Музыка
-https://i.mjh.nz/SamsungTVPlus/USBD300012YC.m3u8
-#EXTINF:0 tvg-id="Vevo 90s"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20230322T000023SQUARE.png_20230322000024.png"  timeshift="0", Vevo 90s
-#EXTGRP:9. Music/Музыка
-https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8
-#EXTINF:0 tvg-id="Vevo R&B"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20230322T000038SQUARE.png_20230322000039.png"  timeshift="0", Vevo R&B
-#EXTGRP:9. Music/Музыка
-https://i.mjh.nz/SamsungTVPlus/USBC3900009K5.m3u8
-#EXTINF:0 tvg-id="Now 70s"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/200px-NOW_70s.png"  timeshift="0", Now 70s
-#EXTGRP:9. Music/Музыка
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="Now 80s"  tvg-logo="https://e7.pngegg.com/pngimages/675/222/png-clipart-now-80-s-text-ad-now-that-s-what-i-call-the-80s-now-that-s-what-i-call-music-compilation-album-now-that-s-what-i-call-80s-party-flyer-party-80-s-miscellaneous-album-thumbnail.png"  timeshift="0", Now 80s
-#EXTGRP:9. Music/Музыка
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="Now 90s"  tvg-logo="https://m.media-amazon.com/images/I/61--8gptnIL.jpg"  timeshift="0", Now 90s
-#EXTGRP:9. Music/Музыка
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="88 STEREO TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxnKVoDsZi6ZAX0IlxacqPeh5NFf1pzTDyAQ&s"  timeshift="0", 88 STEREO TV
-#EXTGRP:9. Music/Музыка
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:0 tvg-id="Retro TV"  tvg-logo="https://sledovanitv.cz/cache/logos256/retro.png"  timeshift="0", Retro TV
-#EXTGRP:9. Music/Музыка
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
