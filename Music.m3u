@@ -29,3 +29,18 @@ https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8
 #EXTINF:0 tvg-id="Vevo R&B"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20230322T000038SQUARE.png_20230322000039.png"  timeshift="0", Vevo R&B
 #EXTGRP:9. Music/Музыка
 https://i.mjh.nz/SamsungTVPlus/USBC3900009K5.m3u8
+#EXTINF:0 tvg-id="Now 70s"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/200px-NOW_70s.png"  timeshift="0", Now 70s
+#EXTGRP:9. Music/Музыка
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="Now 80s"  tvg-logo="https://e7.pngegg.com/pngimages/675/222/png-clipart-now-80-s-text-ad-now-that-s-what-i-call-the-80s-now-that-s-what-i-call-music-compilation-album-now-that-s-what-i-call-80s-party-flyer-party-80-s-miscellaneous-album-thumbnail.png"  timeshift="0", Now 80s
+#EXTGRP:9. Music/Музыка
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="Now 90s"  tvg-logo="https://m.media-amazon.com/images/I/61--8gptnIL.jpg"  timeshift="0", Now 90s
+#EXTGRP:9. Music/Музыка
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="88 STEREO TV"  tvg-logo="https://www.coolstreaming.us/img/ch/ima50357087515.jpg"  timeshift="0", 88 STEREO TV
+#EXTGRP:9. Music/Музыка
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:0 tvg-id="Retro TV"  tvg-logo="https://cdn6.aptoide.com/imgs/0/a/a/0aa84db9ccb645183fd4b7cfa2133a46_fgraphic.png"  timeshift="0", Retro TV
+#EXTGRP:9. Music/Музыка
+https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
