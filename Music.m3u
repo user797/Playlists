@@ -26,3 +26,6 @@ https://i.mjh.nz/SamsungTVPlus/USBD300012YC.m3u8
 #EXTINF:0 tvg-id="Vevo 90s"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20230322T000023SQUARE.png_20230322000024.png"  timeshift="0", Vevo 90s
 #EXTGRP:9. Music/Музыка
 https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8
+#EXTINF:0 tvg-id="Vevo R&B"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20230322T000038SQUARE.png_20230322000039.png"  timeshift="0", Vevo R&B
+#EXTGRP:9. Music/Музыка
+https://i.mjh.nz/SamsungTVPlus/USBC3900009K5.m3u8
