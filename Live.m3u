@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
+#EXTM3U
 #EXTINF:0 tvg-id="Соловьев Live HD"  tvg-logo="https://i.imgur.com/v0OYe1d.png"  timeshift="0", Соловьев Live HD
 #EXTGRP:2. News/Новости
 http://92.53.64.197:5050/Solovyov_live/video.m3u8?token=m3VIth-Rou_bM1
