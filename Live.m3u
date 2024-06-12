@@ -1,5 +1,5 @@
 #EXTM3U
-x-tvg-url="https://iptvx.one/EPG"
+url-tvg="https://iptvx.one/EPG"
 #EXTINF:0 tvg-id="solovjinypomiot" tvg-logo="https://epgx.site/p/solovjinypomiot.png"  timeshift="0", Соловьев Live HD
 #EXTGRP:2. News/Новости
 http://92.53.64.197:5050/Solovyov_live/video.m3u8?token=m3VIth-Rou_bM1
