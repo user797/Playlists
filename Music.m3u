@@ -1,5 +1,4 @@
 #EXTM3U
-url="http://epg.one/epg.xml.gz" 
 #EXTINF:0 tvg-id="Deluxe Flashback"  tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_FLASHBACK_LOGO_RGB-1.png"  timeshift="0", Deluxe Flashback
 #EXTGRP:9. Music/Музыка
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
