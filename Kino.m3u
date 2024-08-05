@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTINF:0 tvg-id="Kino 24"    timeshift="0", Kino 24
+#EXTGRP:3. Movies/Кино
+https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:0 tvg-id="Про100 ТВ"    timeshift="0", Про100 ТВ
+#EXTGRP:3. Movies/Кино
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:0 tvg-id="Советская киноклассика"    timeshift="0", Советская киноклассика
+#EXTGRP:3. Movies/Кино
+http://130.193.124.214:8028/play/a05z/index.m3u8
+#EXTINF:0 tvg-id="Классика кино"    timeshift="0", Классика кино
+#EXTGRP:3. Movies/Кино
+https://mhd116.iptv2022.com/p/DI9Q9MxMPFQTfz6s04y9XQ,1722891610/streaming/k_kino/324/1/index.m3u8
