@@ -1,4 +1,4 @@
 #EXTM3U x-tvg-url="https://iptvx.one/EPG"
 #EXTINF:0 tvg-id="solovjinypomiot"    timeshift="0", Соловьев Live
 #EXTGRP:2. News/Новости
-https://mhd116.iptv2022.com/p/401T7qN8hSqIGAVyeSVuIw,1723064415/streaming/solovyevlive/324/1/index.m3u8
+http://185.177.112.234:8000/play/a029
