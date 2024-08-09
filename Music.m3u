@@ -45,6 +45,6 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:0 tvg-id="Retro TV"  tvg-logo="https://sledovanitv.cz/cache/logos256/retro.png"  timeshift="0", Retro TV
 #EXTGRP:9. Music/Музыка
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
-#EXTINF:0 tvg-id="DanceHits 80"  tvg-logo="https://sledovanitv.cz/cache/logos256/retro.png"  timeshift="0", DanceHits 80
+#EXTINF:0 tvg-id="DanceHits 80"  tvg-logo=""  timeshift="0", DanceHits 80
 #EXTGRP:9. Music/Музыка
 http://dancehits80.denvs.ru:8080/index.m3u8
