@@ -39,9 +39,6 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="Now 90s"  tvg-logo="https://m.media-amazon.com/images/I/61--8gptnIL.jpg"  timeshift="0", Now 90s
 #EXTGRP:9. Music/Музыка
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="88 STEREO TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxnKVoDsZi6ZAX0IlxacqPeh5NFf1pzTDyAQ&s"  timeshift="0", 88 STEREO TV
-#EXTGRP:9. Music/Музыка
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:0 tvg-id="Retro TV"  tvg-logo="https://sledovanitv.cz/cache/logos256/retro.png"  timeshift="0", Retro TV
 #EXTGRP:9. Music/Музыка
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
