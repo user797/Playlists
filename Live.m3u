@@ -1,4 +1,4 @@
 #EXTM3U x-tvg-url="https://iptvx.one/EPG"
 #EXTINF:0 tvg-id="solovjinypomiot"    timeshift="0", Соловьев Live
 #EXTGRP:2. News/Новости
-http://185.177.112.234:8000/play/a029
+https://player.smotrim.ru/iframe/stream/live_id/63338
