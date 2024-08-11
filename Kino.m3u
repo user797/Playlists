@@ -14,3 +14,6 @@ https://mhd116.iptv2022.com/p/JFjI1jnckQKZN7fpO7VZMQ,1723150809/streaming/k_kino
 #EXTINF:0 tvg-id="ussr-premieregroup"    timeshift="0", USSR HD
 #EXTGRP:3. Movies/Кино
 http://23a3af71.ottolok.net/iptv/ULDDKXHKHNTCEL/11102/index.m3u8
+#EXTINF:0 tvg-id="Сити Эдем - КиноКлассика "    timeshift="0", Сити Эдем - КиноКлассика
+#EXTGRP:3. Movies/Кино
+https://river-3-312.rutube.ru/stream/genetta-332.m9.rutube.ru/e24VCtTNC-3VG9QplgSG7g/1723961072/3fa2aa4856bd59821ce68aa3d20a595d/1080p_stream.m3u8
