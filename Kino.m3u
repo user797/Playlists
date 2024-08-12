@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
+#EXTM3U x-tvg-url="https://iptvx.one/EPG_NOARCH"
 #EXTINF:0 tvg-id="Kino 24"    timeshift="0", Kino 24
 #EXTGRP:3. Movies/Кино
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
