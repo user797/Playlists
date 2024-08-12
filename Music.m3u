@@ -45,3 +45,9 @@ https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
 #EXTINF:0 tvg-id="Dance Hits 80"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1lRWZ8qU59poOAVKlfv9k0LcDbNRHpqzhE5B5f-GxdxjEDRHEFXv4W0&s"  timeshift="0", Dance Hits 80
 #EXTGRP:9. Music/Музыка
 http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:0 tvg-id="Музыка 1 International"  tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-muzyka-1-international_1.jpg?itok=-hEgDHeA"  timeshift="0", Музыка 1 International
+#EXTGRP:9. Music/Музыка
+http://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:0 tvg-id="Музыка 2 International"  tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-muzyka-2-international.jpg?itok=QBzJqaoB"  timeshift="0", Музыка 2 International
+#EXTGRP:9. Music/Музыка
+https://kino-1.catcast.tv/content/37742/index.m3u8
