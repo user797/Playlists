@@ -1,8 +1,8 @@
-#EXTM3U x-tvg-url="https://iptvx.one/EPG"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg.xml"
 #EXTINF:0 tvg-id="Kino 24"    timeshift="0", Kino 24
 #EXTGRP:3. Movies/Кино
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:0 tvg-id="Про100 ТВ"    timeshift="0", Про100 ТВ
+#EXTINF:0 tvg-id="Pro100 TV"    timeshift="0", Pro100 TV
 #EXTGRP:3. Movies/Кино
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:0 tvg-id="Советская киноклассика"    timeshift="0", Советская киноклассика
@@ -10,10 +10,16 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 http://46.8.29.51:2020/channel/nbae71fb/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:0 tvg-id="Классика кино"    timeshift="0", Классика кино
 #EXTGRP:3. Movies/Кино
-https://mhd116.iptv2022.com/p/Mz9-7IBGkaW6h3CgiKO-wA,1723410009/streaming/k_kino/324/1/index.m3u8
+https://mhd116.iptv2022.com/p/JFjI1jnckQKZN7fpO7VZMQ,1723150809/streaming/k_kino/324/1/index.m3u8
 #EXTINF:0 tvg-id="ussr-premieregroup"    timeshift="0", USSR HD
 #EXTGRP:3. Movies/Кино
-http://23a3af71.ottolok.net/iptv/ULDDKXHKHNTCEL/11102/index.m3u8
-#EXTINF:0 tvg-id="Сити Эдем - КиноКлассика "    timeshift="0", Сити Эдем - КиноКлассика
+https://s17.federal.tv:8082/fed/kkino.stream/chunks.m3u8?nimblesessionid=286289689&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDI0IDU6NTY6MTEgQU0maGFzaF92YWx1ZT04bWVoK0pOZmU5eUVSQnNOZWRza0V3PT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:0 tvg-id="Сити Эдем - КиноКлассика" tvg-logo="https://sun9-80.userapi.com/s/v1/ig2/9wHA9C2_IUtkJNaJQ4JMDIi4r1xLY8IhRfni3T_g-RXqRqK_vVeqnmkGbnIOedTTMGqFwTwiK2erEscxeSjynEp9.jpg?quality=95&as=32x20,48x30,72x45,108x68,160x101,240x151,360x226,480x302,540x339,640x402,700x440&from=bu&u=sHsakGqbood1cc_xbmqH3Ovfuys7w_Jg1d9wSFL6mTI&cs=700x440"   timeshift="0", Сити Эдем - КиноКлассика
 #EXTGRP:3. Movies/Кино
 https://v2.catcast.tv/content/34185/index.m3u8
+#EXTINF:0 tvg-id="Video Prokat TV" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-video-prokat-tv.jpg?itok=XwTEuMAN"   timeshift="0", Video Prokat TV
+#EXTGRP:3. Movies/Кино
+https://vsd132.mycdn.me/hls/6794641214118.m3u8/sig/Y0dXuZ7M3a0/expires/1723526716457/srcIp/91.105.141.21/urls/185.226.52.87/clientType/36/srcAg/CHROME_ANDROID/mid/7704168974246/6794641214118_fullhd/index.m3u8?p
+#EXTINF:0 tvg-id="sovkino"    timeshift="0", Советское кино
+#EXTGRP:3. Movies/Кино
+https://s17.federal.tv:8082/fed/sovkinotv.stream/chunks.m3u8?nimblesessionid=286290229&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDI0IDU6NTg6MzggQU0maGFzaF92YWx1ZT1oQjFReVQ3bm8rYW9PcHR0aWVkVk1BPT0mdmFsaWRtaW51dGVzPTIwMA==
