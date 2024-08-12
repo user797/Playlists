@@ -1,4 +1,5 @@
 #EXTM3U
+x-tvg-url="https://gabbarit.page.link/epg"
 #EXTINF:0 tvg-id="Deluxe Flashback"  tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_FLASHBACK_LOGO_RGB-1.png"  timeshift="0", Deluxe Flashback
 #EXTGRP:9. Music/Музыка
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
@@ -41,6 +42,6 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="Retro TV"  tvg-logo="https://sledovanitv.cz/cache/logos256/retro.png"  timeshift="0", Retro TV
 #EXTGRP:9. Music/Музыка
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
-#EXTINF:0 tvg-id="DanceHits 80"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1lRWZ8qU59poOAVKlfv9k0LcDbNRHpqzhE5B5f-GxdxjEDRHEFXv4W0&s"  timeshift="0", DanceHits 80
+#EXTINF:0 tvg-id="Dance Hits 80"   timeshift="0", DanceHits 80
 #EXTGRP:9. Music/Музыка
 http://dancehits80.denvs.ru:8080/index.m3u8
