@@ -20,6 +20,6 @@ https://v2.catcast.tv/content/34185/index.m3u8
 #EXTINF:0 tvg-id="Video Prokat TV" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-video-prokat-tv.jpg?itok=XwTEuMAN"   timeshift="0", Video Prokat TV
 #EXTGRP:3. Movies/Кино
 https://vsd132.mycdn.me/hls/6794641214118.m3u8/sig/Y0dXuZ7M3a0/expires/1723526716457/srcIp/91.105.141.21/urls/185.226.52.87/clientType/36/srcAg/CHROME_ANDROID/mid/7704168974246/6794641214118_fullhd/index.m3u8?p
-#EXTINF:0 tvg-id="sovkino"    timeshift="0", Советское кино
+#EXTINF:0 tvg-id="sovkino" tvg-logo="https://i.imgur.com/6aRAMPV.jpeg"    timeshift="0", Советское кино
 #EXTGRP:3. Movies/Кино
 https://mhd116.iptv2022.com/p/THa3NKbtPxnwDyVY4UCp-g,1723496409/streaming/sovietmovs/324/1/index.m3u8
