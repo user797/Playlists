@@ -42,6 +42,6 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="Retro TV"  tvg-logo="https://sledovanitv.cz/cache/logos256/retro.png"  timeshift="0", Retro TV
 #EXTGRP:9. Music/Музыка
 https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
-#EXTINF:0 tvg-id="Dance Hits 80"   timeshift="0", DanceHits 80
+#EXTINF:0 tvg-id="Dance Hits 80"   timeshift="0", Dance Hits 80
 #EXTGRP:9. Music/Музыка
 http://dancehits80.denvs.ru:8080/index.m3u8
