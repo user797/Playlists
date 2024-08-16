@@ -10,7 +10,7 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/34Q39DSR7B3ZFVB67GZHELNX/2146/index.m3u8
 #EXTINF:0 tvg-id="Классика кино"    timeshift="0", Классика кино
 #EXTGRP:3. Movies/Кино
-https://mhd156.iptv2022.com/p/ITP_-8i0Kd0Z5z6FnIIObw,1723882325/streaming/k_kino/324/5/tracks-v3a1/mono.m3u8
+https://s17.federal.tv:8082/fed/kkino.stream/chunks.m3u8?nimblesessionid=287530666&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI0IDQ6NDM6MjUgUE0maGFzaF92YWx1ZT1IZHNCU2xaMGg0aTJvcTJZVTA5ZHZRPT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:0 tvg-id="ussr-premieregroup"    timeshift="0", USSR HD
 #EXTGRP:3. Movies/Кино
 http://rhsbjv7k.tvclub.xyz/iptv/XXS5PM8H86A5SK/11102/index.m3u8
