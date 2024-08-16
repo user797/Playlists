@@ -16,7 +16,7 @@ https://mhd156.iptv2022.com/p/ITP_-8i0Kd0Z5z6FnIIObw,1723882325/streaming/k_kino
 http://rhsbjv7k.tvclub.xyz/iptv/XXS5PM8H86A5SK/11102/index.m3u8
 #EXTINF:0 tvg-id="Сити Эдем - КиноКлассика" tvg-logo="https://sun9-80.userapi.com/s/v1/ig2/9wHA9C2_IUtkJNaJQ4JMDIi4r1xLY8IhRfni3T_g-RXqRqK_vVeqnmkGbnIOedTTMGqFwTwiK2erEscxeSjynEp9.jpg?quality=95&as=32x20,48x30,72x45,108x68,160x101,240x151,360x226,480x302,540x339,640x402,700x440&from=bu&u=sHsakGqbood1cc_xbmqH3Ovfuys7w_Jg1d9wSFL6mTI&cs=700x440"   timeshift="0", Сити Эдем - КиноКлассика
 #EXTGRP:3. Movies/Кино
-https://v2.catcast.tv/content/34185/index.m3u8
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=34185&token=2cdd4fe8739c153525b8302750ce0056&server=v2.catcast.tv
 #EXTINF:0 tvg-id="sovkino" tvg-logo="https://i.imgur.com/6aRAMPV.jpeg"    timeshift="0", Советское кино
 #EXTGRP:3. Movies/Кино
 https://mhd120.iptv2022.com/p/sIBhE5u3SA1mpuwIEcrSBg,1723882746/streaming/sovietmovs/324/5/tracks-v5a1/mono.m3u8
