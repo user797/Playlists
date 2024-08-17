@@ -16,7 +16,7 @@ https://s17.federal.tv:8082/fed/kkino.stream/chunks.m3u8?nimblesessionid=2875306
 http://rhsbjv7k.tvclub.xyz/iptv/XXS5PM8H86A5SK/11102/index.m3u8
 #EXTINF:0 tvg-id="Сити Эдем - КиноКлассика"    timeshift="0", Сити Эдем - КиноКлассика
 #EXTGRP:3. Movies/Кино
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=34185&token=2cdd4fe8739c153525b8302750ce0056&server=v2.catcast.tv
+https://v2.catcast.tv/content/34185/index.m3u8
 #EXTINF:0 tvg-id="sovkino"    timeshift="0", Советское кино
 #EXTGRP:3. Movies/Кино
 https://mhd120.iptv2022.com/p/sIBhE5u3SA1mpuwIEcrSBg,1723882746/streaming/sovietmovs/324/5/tracks-v5a1/mono.m3u8
