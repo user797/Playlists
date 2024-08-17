@@ -20,3 +20,6 @@ https://v2.catcast.tv/content/34185/index.m3u8
 #EXTINF:0 tvg-id="sovkino"    timeshift="0", Советское кино
 #EXTGRP:3. Movies/Кино
 http://91.207.114.220:9001/play/a0aq/index.m3u8
+#EXTINF:0 tvg-id="Любимые фильмы"    timeshift="0", Любимые фильмы
+#EXTGRP:3. Movies/Кино
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=40102&token=220e8545cc6d2790c4be83ac7eac7845
