@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
+#EXTM3U
 #EXTINF:0 group-title="Кинозалы" tvg-id="4681" tvg-logo="https://cdn.epg.ee/api/getImage.php?t&cid=mmagatachristy-ru&uid=101362e45a" tvg-rec="7",Коломбо
 http://rhsbjv7k.tvclub.xyz/iptv/NLKLWBWZ279RXN/31713/index.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="4681" tvg-logo="https://cdn.epg.ee/api/getImage.php?t&cid=mmagatachristy-ru&uid=101362e45a" tvg-rec="7",Коломбо
