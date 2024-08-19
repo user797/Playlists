@@ -5,12 +5,3 @@ https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:0 tvg-id="pro100"    timeshift="0", Про100 ТВ
 #EXTGRP:3. Movies/Кино
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:0 tvg-id="Советская киноклассика"    timeshift="0", Советская киноклассика
-#EXTGRP:3. Movies/Кино
-http://rhsbjv7k.tvclub.xyz/iptv/34Q39DSR7B3ZFVB67GZHELNX/2146/index.m3u8
-#EXTINF:0 tvg-id="ussr-premieregroup"    timeshift="0", USSR HD
-#EXTGRP:3. Movies/Кино
-http://rhsbjv7k.tvclub.xyz/iptv/XXS5PM8H86A5SK/11102/index.m3u8
-#EXTINF:0 tvg-id="sovkino"    timeshift="0", Советское кино
-#EXTGRP:3. Movies/Кино
-http://91.207.114.220:9001/play/a0aq/index.m3u8
