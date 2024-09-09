@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-name="Gilla Novak" tvg-logo="https://archive.org/download/gilla-novak-en-viva-85-tve/__ia_thumb.jpg" group-title="Music",Gilla Novak
+https://archive.org/download/gilla-novak-en-viva-85-tve/Gilla%20Novak%20en%20VIVA%2085%20%28TVE%29.avi
 #EXTINF:0 tvg-name="Denise & The Beastie Girls" tvg-logo="https://archive.org/download/denise-the-beastie-girls-esta-noche/__ia_thumb.jpg" group-title="Music",Denise & The Beastie Girls
 https://archive.org/download/denise-the-beastie-girls-esta-noche/Denise%20%26%20the%20Beastie%20Girls-Esta%20Noche.avi
 #EXTINF:0 tvg-name="Angie van Burg" tvg-logo="https://archive.org/download/angie-van-burg-baby-im-hot/__ia_thumb.jpg" group-title="Music",Angie van Burg
