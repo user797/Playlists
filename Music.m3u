@@ -1,5 +1,8 @@
 #EXTM3U
 x-tvg-url="https://gabbarit.page.link/epg"
+#EXTINF:0 tvg-id="MTV Classic"  tvg-logo="https://assets.teleon.tv/180_webp/mtv-classic-us.webp"  timeshift="0", MTV Classic
+#EXTGRP:9. Music/Музыка
+https://cors.support-a2f.workers.dev/https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/654100b4bdf3cf0008aa49c7/3063648/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-dce4376f-399c-4d5b-8b82-0fae8a6098a7&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&appName=samsungtvplus&deviceId=66ce9191-4f44-4604-bc08-0b2871a4b74a&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true&us_privacy=1YNY
 #EXTINF:0 tvg-id="Deluxe Flashback"  tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_FLASHBACK_LOGO_RGB-1.png"  timeshift="0", Deluxe Flashback
 #EXTGRP:9. Music/Музыка
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
