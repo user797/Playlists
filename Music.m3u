@@ -1,5 +1,8 @@
 #EXTM3U
 x-tvg-url="https://gabbarit.page.link/epg"
+#EXTINF:0 tvg-id="MTV Classic"  tvg-logo="https://assets.teleon.tv/180_webp/mtv-classic-us.webp"  timeshift="0", MTV Classic
+#EXTGRP:Музыка
+https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:0 tvg-id="Deluxe Flashback"  tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_FLASHBACK_LOGO_RGB-1.png"  timeshift="0", Deluxe Flashback
 #EXTGRP:9. Music/Музыка
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
