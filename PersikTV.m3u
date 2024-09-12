@@ -1,0 +1,126 @@
+#EXTM3U
+x-tvg-url="https://gabbarit.page.link/epg"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV  Советские комедии" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV  Советские комедии
+http://fs2.persik.by/Soviet_Comedy10/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Fantasy" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Fantasy
+https://fs2.persik.by/Fantasy2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Александра Бортич" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Александра Бортич
+http://fs2.persik.by/Bortich3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Американские комедии" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Американские комедии
+https://fs2.persik.by/Amerikanskie_Komedii_12/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Английские субтитры" tvg-logo="" group-title="Кинозалы Persik",PersikTV Английские субтитры
+http://fs2.persik.by/Angliyskie_subtitry5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Андрей Мерзликин" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Андрей Мерзликин
+http://fs2.persik.by/Merzlikin4/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Боевики" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Боевики
+http://fs2.persik.by/Boeviki_12/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV В кругу семьи" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV В кругу семьи
+http://fs2.persik.by/V_krugu_semii2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV ВДОВИЧЕНКОВ" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV ВДОВИЧЕНКОВ
+http://fs2.persik.by/Vdovichenkov3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Вдохновение" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Вдохновение
+https://fs2.persik.by/Vdohnovenie_12/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Вицин" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Вицин
+http://fs2.persik.by/Vicin_7/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Вторая мировая" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Вторая мировая
+http://fs2.persik.by/Vtoraja_Mirovaja_7/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Давай поженимся" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Давай поженимся
+http://fs2.persik.by/Davaj_Pozhenimsya6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Детективное кино" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Детективное кино
+https://fs2.persik.by/Detektivnoe_Kino_8/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Дружба" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Дружба
+http://fs2.persik.by/Druzhba7/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Европейское кино" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Европейское кино
+https://fs2.persik.by/EvropejskoeKino14/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Зарубежное кино" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Зарубежное кино
+http://fs2.persik.by/Zarubezhnoe_kino_9/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Зомби-апокалипсис" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Зомби-апокалипсис
+http://fs2.persik.by/Zombi_apokalipsis7/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Известные актёры" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title=Кинозалы Persik",PersikTV Известные актёры
+http://fs2.persik.by/Izvestnie_akteri4/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Кино + Subtitles" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Кино + Subtitles
+http://fs2.persik.by/Kino_Subtitry_9/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Кино выходного дня" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Кино выходного дня
+http://fs2.persik.by/Kino_vihodnogo_dnia6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Кино по книгам" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Кино по книгам
+https://fs2.persik.by/Kino_po_knigam9/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Кино про дружбу" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title=Кинозалы Persik",PersikTV Кино про дружбу
+http://fs2.persik.by/Pro_druzhbu7/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Кино-антистресс" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Кино-антистресс
+http://fs2.persik.by/Kino_Antistress8/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Киномикс" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Киномикс
+https://fs2.persik.by/Kino_Miks10/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Комедийные сериалы" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Комедийные сериалы
+http://fs2.persik.by/Komedijnie_seriali5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Куценко" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Куценко
+http://fs2.persik.by/Kucenko_3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Леонов" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Леонов
+https://fs2.persik.by/Leonov_6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Любовь и Детективы" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Любовь и Детективы
+http://fs2.persik.by/Lubov_Detektivi6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV МАТВЕЕВ" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title=Кинозалы Persik",PersikTV МАТВЕЕВ
+http://fs2.persik.by/Matveev3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Маньяки" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Маньяки
+http://fs2.persik.by/Manjaki6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Машков" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Машков
+http://fs2.persik.by/Mashkov4/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Миронов" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Миронов
+https://fs2.persik.by/Mironov7/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Михаил Пореченков" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Михаил Пореченков
+http://fs2.persik.by/Porechenkov2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Молодость" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Молодость
+http://fs2.persik.by/Molodost7/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Новинки" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Новинки
+http://fs2.persik.by/Novinki8/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Новогодние фильмы" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title=Кинозалы Persik",PersikTV Новогодние фильмы
+http://fs2.persik.by/Novogodnie_Filmy_7/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Новое кино" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Новое кино
+https://fs2.persik.by/NovoeKino8/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Новые комедии" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Новые комедии
+http://fs2.persik.by/Novie_Komedii6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Остросюжетные сериалы" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Остросюжетные сериалы
+http://fs2.persik.by/OstrosuzhetnieSerialy6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Отечественное кино" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title=Кинозалы Persik",PersikTV Отечественное кино
+https://fs2.persik.by/Otechestvennoe2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV ПАНИН" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title=Кинозалы Persik",PersikTV ПАНИН
+http://fs2.persik.by/Panin3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Популярное кино" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title=Кинозалы Persik",PersikTV Популярное кино
+https://fs2.persik.by/Populyarnoe_Kino_10/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Про родителей" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Про родителей
+http://fs2.persik.by/Pro_roditeley8/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Психологические ужасы" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title=Кинозалы Persik",PersikTV Психологические ужасы
+http://fs2.persik.by/Psihologicheskie_uzhasy5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Путешествие во времени" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Путешествие во времени
+http://fs2.persik.by/Puteshestvie_vo_vremeni9/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Рекомендуем" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Рекомендуем
+https://fs2.persik.by/Rekomenduem7/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Рождественские фильмы" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Рождественские фильмы
+http://fs2.persik.by/Rozhdestvenskie_filmy5/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Романтические фильмы" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Романтические фильмы
+http://fs2.persik.by/Romanticheskie8/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Русское кино" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Русское кино
+https://fs2.persik.by/RusKino3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Семейное" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title=Кинозалы Persik",PersikTV Семейное
+http://fs2.persik.by/Semejnoe9/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Семейные фильмы" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Семейные фильмы
+http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Сергей Пускепалис" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Сергей Пускепалис
+http://fs2.persik.by/Puskepalis3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Топ кино" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Топ кино
+http://fs2.persik.by/TopKino_12/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Триллеры США" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Триллеры США
+https://fs2.persik.by/Trillery_USA_11/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Триллеры-Боевики" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Триллеры-Боевики
+http://fs2.persik.by/Trillery_Boeviki4/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Триллеры-Драма" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Триллеры-Драма
+http://fs2.persik.by/Trillery_Drama4/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Фестивальное кино" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title=Кинозалы Persik",PersikTV Фестивальное кино
+http://fs2.persik.by/FestivalnoeKino8/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Фильмы катастрофы" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Фильмы катастрофы
+http://fs2.persik.by/Filmy_katastrofy/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV ХАБЕНСКИЙ" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV ХАБЕНСКИЙ
+http://fs2.persik.by/Habenskij3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Чиповская" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Чиповская
+https://fs2.persik.by/Chipovskaja2/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Экранизации" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Экранизации
+http://fs2.persik.by/Ekranizacii12/index.m3u8
