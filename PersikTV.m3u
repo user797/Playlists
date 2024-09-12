@@ -8,7 +8,7 @@ https://fs2.persik.by/Fantasy2/index.m3u8
 http://fs2.persik.by/Bortich3/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Американские комедии" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Американские комедии
 https://fs2.persik.by/Amerikanskie_Komedii_12/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Английские субтитры" tvg-logo="" group-title="Кинозалы Persik",PersikTV Английские субтитры
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Английские субтитры" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Английские субтитры
 http://fs2.persik.by/Angliyskie_subtitry5/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Андрей Мерзликин" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Андрей Мерзликин
 http://fs2.persik.by/Merzlikin4/index.m3u8
