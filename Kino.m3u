@@ -1,6 +1,6 @@
 #EXTM3U
 x-tvg-url="https://gabbarit.page.link/epg"
-#EXTINF:0 tvg-id="kino-24"    timeshift="0", Kino24
+#EXTINF:0 tvg-id="kino-24"    timeshift="0", Kino 24
 #EXTGRP:Кино
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:0 tvg-id="pro100"    timeshift="0", Про100 ТВ
