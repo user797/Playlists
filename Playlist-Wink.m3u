@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://gabbarit.page.link/epg"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский Экстрим UHD 4K" tvg-logo="" group-title="Общие",Русский Экстрим UHD 4K
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский Экстрим UHD 4K" tvg-logo="" group-title="Спорт",Русский Экстрим UHD 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_3840x2160_avc1/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наша Сибирь 4k" tvg-logo="" group-title="Общие",Наша Сибирь 4k
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наша Сибирь 4k" tvg-logo="" group-title="Региональные",Наша Сибирь 4k
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/video_3840x2160_avc1/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultra HD Cinema" tvg-logo="" group-title="Общие",Ultra HD Cinema
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ultra HD Cinema" tvg-logo="" group-title="Кино",Ultra HD Cinema
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_3840x2160_avc1/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый канал" tvg-logo="" group-title="Общие",Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
@@ -19,7 +19,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Репортер 73" tvg-logo="" group-title="Общие",Репортер 73
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Рифей-ТВ" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1531138277952.png" group-title="Общие",Рифей-ТВ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Рифей-ТВ" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1531138277952.png" group-title="Региональные",Рифей-ТВ
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1" tvg-logo="" group-title="Общие",Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
@@ -43,11 +43,11 @@ https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2x2 +4" tvg-logo="" group-title="Общие",2x2 +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СОЛНЦЕ" tvg-logo="" group-title="Общие",СОЛНЦЕ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СОЛНЦЕ" tvg-logo="" group-title="Детские",СОЛНЦЕ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СОЛНЦЕ +4" tvg-logo="" group-title="Общие",СОЛНЦЕ +4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СОЛНЦЕ +4" tvg-logo="" group-title="Детские",СОЛНЦЕ +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница" tvg-logo="" group-title="Общие",Пятница
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница" tvg-logo="" group-title="Общие",Пятница!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl4" tvg-name="Пятница! +4" tvg-logo="" group-title="Общие",Пятница! +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
@@ -65,7 +65,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Супер +4" tvg-logo="" group-title="Общие",Супер +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сургут 24" tvg-logo="" group-title="Общие",Сургут 24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сургут 24" tvg-logo="" group-title="Региональные",Сургут 24
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SURGUT24/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТВЦ" tvg-logo="" group-title="Общие",ТВЦ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
@@ -75,7 +75,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТВ3 +4" tvg-logo="" group-title="Общие",ТВ3 +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Че" tvg-logo="" group-title="Общие",Че
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Че" tvg-logo="" group-title="Общие",Че! 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Че! +4" tvg-logo="" group-title="Общие",Че! +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
@@ -91,9 +91,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда +4" tvg-logo="" group-title="Общие",Звезда +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="Общие",Карусель
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="Детские",Карусель
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 tvg-id="karusel-pl4" tvg-name="Карусель +4" tvg-logo="" group-title="Общие",Карусель +4
+#EXTINF:-1 tvg-id="karusel-pl4" tvg-name="Карусель +4" tvg-logo="" group-title="Детские",Карусель +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мир" tvg-logo="" group-title="Общие",Мир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
@@ -239,7 +239,7 @@ https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
 http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Эфир" tvg-logo="" group-title="Общие",Эфир
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
-#EXTINF:-1 tvg-id="express" tvg-name="Экспресс HD" tvg-logo="" group-title="Общие",Экспресс HD
+#EXTINF:-1 tvg-id="express" tvg-name="Экспресс HD" tvg-logo="" group-title="Познавательные",Экспресс HD
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч ТВ" tvg-logo="" group-title="Спорт",Матч ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
