@@ -203,7 +203,7 @@ https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ОТР" tvg-logo="" group-title="Общие",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ОТС HD" tvg-logo="" group-title="Общие",ОТС HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ОТС HD" tvg-logo="" group-title="Региональные",ОТС HD
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
 #EXTINF:-1 tvg-id="rts-abakan" tvg-name="РТС-Абакан" tvg-logo="" group-title="Региональные",РТС Абакан
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
