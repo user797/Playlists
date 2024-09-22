@@ -233,7 +233,7 @@ https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
 #EXTINF:-1 tvg-id="tolpartv" tvg-name="Толпар ТВ" tvg-logo="" group-title="Региональные",Толпар ТВ
 https://s45177.cdn.ngenix.net/hls/CH_R02_TOLPAR/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ул. Правда" tvg-logo="" group-title="Региональные",Ул. Правда
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ул. Правда" tvg-logo="" group-title="Региональные",УлПравда ТВ
 https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Хамдан" tvg-logo="" group-title="Региональные",Хамдан
 http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
