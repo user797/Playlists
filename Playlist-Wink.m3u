@@ -123,7 +123,7 @@ https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8 канал" tvg-logo="" group-title="Региональные",8 Канал
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
-#EXTINF:-1 tvg-id="8kanal-novosibirsk" tvg-name="8 канал (Новосибирск)" tvg-logo="" group-title="Региональные",8 Уанал Новосибирск
+#EXTINF:-1 tvg-id="8kanal-novosibirsk" tvg-name="8 канал (Новосибирск)" tvg-logo="" group-title="Региональные",8 Канал Новосибирск
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Арктика 24" tvg-logo="" group-title="Региональные",Арктика 24
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
