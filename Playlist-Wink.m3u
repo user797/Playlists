@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://gabbarit.page.link/epg"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский Экстрим UHD 4K" tvg-logo="" group-title="Спорт",Русский Экстрим UHD 4K
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский Экстрим UHD 4K" tvg-logo="" group-title="Спорт",Russian Extreme UHD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_3840x2160_avc1/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наша Сибирь 4k" tvg-logo="" group-title="Региональные",Наша Сибирь 4k
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/video_3840x2160_avc1/variant.m3u8
