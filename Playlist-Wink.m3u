@@ -49,6 +49,8 @@ https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/varia
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1 +4" tvg-logo="" group-title="Общие",Россия 1 +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1 (+4)" tvg-logo="" group-title="Общие",Россия 1 +4
+https://mhd116.iptv2022.com/p/qW8GJFnidxd6rEDIsO8o_A,1727082003/streaming/rossia1plus4/324/1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="" group-title="Новостные",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия К" tvg-logo="" group-title="Общие",Россия К
