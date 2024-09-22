@@ -237,7 +237,7 @@ https://s45177.cdn.ngenix.net/hls/CH_R02_TOLPAR/variant.m3u8
 https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Хамдан" tvg-logo="" group-title="Региональные",Хамдан
 http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Эфир" tvg-logo="" group-title="Общие",Эфир
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Эфир" tvg-logo="" group-title="Региональные",Эфир
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
 #EXTINF:-1 tvg-id="express" tvg-name="Экспресс HD" tvg-logo="" group-title="Познавательные",Экспресс HD
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
