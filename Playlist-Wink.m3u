@@ -113,7 +113,7 @@ https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Норд ТВ (Новодвинск)" tvg-logo="" group-title="Региональные",Норд ТВ (Новодвинск)
 https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_NORDTV/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5 канал +4" tvg-logo="" group-title="Общие",5 канал +4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="5 канал +4" tvg-logo="" group-title="Общие",5 Kанал +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="6 ТВ" tvg-logo="" group-title="Региональные",6 ТВ
 https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
@@ -121,7 +121,7 @@ https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="7 канал Красноярск" tvg-logo="" group-title="Региональные",7 канал Красноярск
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8 канал" tvg-logo="" group-title="Общие",8 канал
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8 канал" tvg-logo="" group-title="Региональные",8 канал
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
 #EXTINF:-1 tvg-id="8kanal-novosibirsk" tvg-name="8 канал (Новосибирск)" tvg-logo="" group-title="Региональные",8 канал (Новосибирск)
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
