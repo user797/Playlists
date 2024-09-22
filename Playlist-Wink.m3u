@@ -17,7 +17,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Рен ТВ +4" tvg-logo="" group-title="Общие",Рен ТВ +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Репортер 73" tvg-logo="" group-title="Общие",Репортер 73
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Репортер 73" tvg-logo="" group-title="Региональные",Репортер 73
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Рифей-ТВ" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1531138277952.png" group-title="Региональные",Рифей-ТВ
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
@@ -51,9 +51,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl4" tvg-name="Пятница! +4" tvg-logo="" group-title="Общие",Пятница! +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятый канал" tvg-logo="" group-title="Общие",Пятый канал
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятый канал" tvg-logo="" group-title="Общие",5 Канал Россия
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 tvg-id="5kanal-ru-pl4" tvg-name="Пятый канал +4" tvg-logo="" group-title="Общие",Пятый канал +4
+#EXTINF:-1 tvg-id="5kanal-ru-pl4" tvg-name="Пятый канал +4" tvg-logo="" group-title="Общие",5 Канал +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС" tvg-logo="" group-title="Общие",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
