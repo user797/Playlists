@@ -1,5 +1,4 @@
-#EXTM3U
-x-tvg-url="https://gabbarit.page.link/epg"
+#EXTM3U url-tvg="https://gabbarit.page.link/epg"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV  Советские комедии" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV  Советские комедии
 http://fs2.persik.by/Soviet_Comedy10/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PersikTV Fantasy" tvg-logo="https://archive.org/download/images_20240912/images.png" group-title="Кинозалы Persik",PersikTV Fantasy
