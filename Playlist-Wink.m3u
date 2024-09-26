@@ -29,6 +29,8 @@ http://91.207.115.228:12000/play/a03g
 https://mhd116.iptv2022.com/p/YV1N_rE2YWpV5QpvCQUiEw,1727082012/streaming/izvestia/324/1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Известия" tvg-logo="" group-title="Новостные",Известия
 https://livetv.mylifeisgood.net.ru/channels/iz.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Известия" tvg-logo="" group-title="Новостные",Известия Кемерово
+http://46.181.221.113:81/udp/239.255.42.151:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский Экстрим UHD 4K" tvg-logo="" group-title="Спорт",Russian Extreme UHD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_3840x2160_avc1/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наша Сибирь 4k" tvg-logo="" group-title="Региональные",Наша Сибирь 4k
