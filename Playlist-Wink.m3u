@@ -1,6 +1,10 @@
 #EXTM3U url-tvg="https://gabbarit.page.link/epg"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сибирь 24" tvg-logo="" group-title="Новостные",Сибирь 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/track_105_26b8d2e7/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сибирь 24" tvg-logo="" group-title="Новостные",Сибирь 24
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сибирь 24" tvg-logo="" group-title="Новостные",Сибирь 24 Кемерово
+http://46.181.221.113:81/udp/239.255.43.7:1234
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Соловьёв Live" tvg-logo="" group-title="Новостные",Соловьёв Live
 http://s83.chas.tv:8081/chas/sollive.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Соловьёв Live" tvg-logo="" group-title="Новостные",Соловьёв Live
