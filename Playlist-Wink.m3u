@@ -44,7 +44,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ" tvg-logo="" group-title="Общие",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ +4" tvg-logo="" group-title="Общие",НТВ +4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+http://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="НТВ +4" tvg-logo="" group-title="Общие",НТВ +4
+http://cdn.ntv.ru/ntv4/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РЕН ТВ" tvg-logo="" group-title="Общие",РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Рен ТВ +4" tvg-logo="" group-title="Общие",Рен ТВ +4
@@ -70,13 +72,17 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1 +4" tvg-logo="" group-title="Общие",Россия 1 +4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1 (+4)" tvg-logo="" group-title="Общие",Россия 1 +4
-https://mhd116.iptv2022.com/p/qW8GJFnidxd6rEDIsO8o_A,1727082003/streaming/rossia1plus4/324/1/index.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/58510
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 1 (+4)" tvg-logo="" group-title="Общие",Россия 1 +4
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia1-sd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="" group-title="Новостные",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия К" tvg-logo="" group-title="Общие",Россия К
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия К +4" tvg-logo="" group-title="Общие",Россия К +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия К +4" tvg-logo="" group-title="Общие",Россия К +4
+https://player.smotrim.ru/iframe/stream/live_id/60882
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ" tvg-logo="" group-title="Общие",ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ +4" tvg-logo="" group-title="Общие",ТНТ +4
@@ -135,6 +141,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда" tvg-logo="" group-title="Общие",Звезда
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда +4" tvg-logo="" group-title="Общие",Звезда +4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Звезда +4" tvg-logo="" group-title="Общие",Звезда +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Карусель" tvg-logo="" group-title="Детские",Карусель
