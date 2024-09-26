@@ -153,6 +153,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МИР +4" tvg-logo="" group-title="Общие",МИР +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МИР +4" tvg-logo="" group-title="Общие",МИР +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="doverie" tvg-name="Москва. Доверие" tvg-logo="" group-title="Общие",Москва. Доверие
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МУЗ ТВ" tvg-logo="" group-title="Общие",МУЗ ТВ
