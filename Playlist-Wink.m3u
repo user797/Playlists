@@ -81,6 +81,16 @@ https://player.smotrim.ru/iframe/stream/live_id/58510
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia1-sd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="" group-title="Новостные",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="" group-title="Новостные",Россия 24
+http://s83.chas.tv:8081/chas/rossiya24-hq.stream/playlist.m3u8?&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=bG4wZHNBc0VuQ2ZmVENMTno4aHJId09SODFYNVUvc0NLYVN5c0prcWFJTT06OvCi4dnPFEsfUI2wP%2Bg9LWM%3D
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="" group-title="Новостные",Россия 24
+http://s83.chas.tv:8081/chas/rossiya24-hq.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="" group-title="Новостные",Россия 24
+https://player.smotrim.ru/iframe/stream/live_id/21
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="" group-title="Новостные",Россия 24
+https://streaming.televizor-24-tochka.ru/live/30.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="" group-title="Новостные",Россия 24 Кемерово
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия К" tvg-logo="" group-title="Общие",Россия К
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия К +4" tvg-logo="" group-title="Общие",Россия К +4
