@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://gabbarit.page.link/epg"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мультики и сказки" tvg-logo="" group-title="Сказки",Мультики и сказки
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мультики и Сазки" tvg-logo="" group-title="Сказки",Мультики и Сказки
 http://hls.goodgame.ru/hls/198446.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мультики и сказки" tvg-logo="" group-title="Сказки",Мультики и сказки
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мультики и Сказки" tvg-logo="" group-title="Сказки",Мультики и Сказки
 http://hls.goodgame.ru:8080/hls/198446.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Советские мультфильмы" tvg-logo="" group-title="Сказки",Советские мультфильмы
 http://s83.chas.tv:8081/chas/sovmulttv.stream/playlist.m3u8
