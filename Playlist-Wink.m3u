@@ -239,7 +239,7 @@ https://s72169.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Евразия" tvg-logo="" group-title="Региональные",Евразия
 https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R02_EVRAZIY/variant.m3u8
-#EXTINF:-1 tvg-id="enisey-region" tvg-name="Енисей HD" tvg-logo="" group-title="Региональные",Енисей HD
+#EXTINF:-1 tvg-id="enisey-region" tvg-name="Енисей HD" tvg-logo="" group-title="Региональные",Енисей HD (Красноярск)
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Импульс HD" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1558583498243.png" group-title="Региональные",Импульс HD
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
