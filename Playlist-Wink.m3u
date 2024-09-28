@@ -46,7 +46,7 @@ http://mfe02.cliptv.az/dash/Perviy_Kanal_HDhshd6637.ism/playlist.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый канал" tvg-logo="" group-title="Общие",Первый канал HD
 http://s83.chas.tv:8081/chas/pervyitv-hq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый канал (+4)" tvg-logo="" group-title="Общие",Первый канал +4
-https://mhd116.iptv2022.com/p/S7mSSQ-Foq3Ssw7W48bWaQ,1727082002/streaming/1kanalplus4/324/1/index.m3u8
+http://tv.newline.in.ua:9021/play/b00l
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый канал (+4)" tvg-logo="" group-title="Общие",Первый канал +4
 http://edge4.1internet.tv/dash-live12/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Первый канал +4" tvg-logo="" group-title="Общие",Первый канал +4
