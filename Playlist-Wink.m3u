@@ -247,14 +247,10 @@ https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
 #EXTINF:-1 tvg-id="katun-24" tvg-name="Катунь 24" tvg-logo="" group-title="Региональные",Катунь 24
 https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
-#EXTINF:-1 tvg-id="ktv-gorod" tvg-name="КТВ-Город" tvg-logo="" group-title="Региональные",КТВ Город
-http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VRZH_CTVGOROD/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кузбасс 1" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1578629022322.png" group-title="Региональные",Кузбасс 1
 https://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матур ТВ" tvg-logo="" group-title="Региональные",Матур ТВ
 https://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
-#EXTINF:-1 tvg-id="mig-tv-noyabrsk" tvg-name="МИГ ТВ" tvg-logo="" group-title="Региональные",МИГ ТВ
-http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="МЭТР" tvg-logo="" group-title="Региональные",МЭТР
 https://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наш дом" tvg-logo="" group-title="Региональные",Наш дом
@@ -291,7 +287,7 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ОТС HD" tvg-logo="" group-title="Региональные",ОТС HD
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8
-#EXTINF:-1 tvg-id="rts-abakan" tvg-name="РТС-Абакан" tvg-logo="" group-title="Региональные",РТС Абакан
+#EXTINF:-1 tvg-id="rts-abakan" tvg-name="РТС-Абакан" tvg-logo="" group-title="Региональные",РТС - Абакан
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Русский Север" tvg-logo="" group-title="Региональные",Русский Север
 https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
@@ -313,18 +309,6 @@ https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_CENTRKRSN/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНВ-Планета" tvg-logo="" group-title="Региональные",ТНВ Планета
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНР24" tvg-logo="" group-title="Региональные",ТНР24
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Толк" tvg-logo="" group-title="Региональные",Толк
-https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
-#EXTINF:-1 tvg-id="tolpartv" tvg-name="Толпар ТВ" tvg-logo="" group-title="Региональные",Толпар ТВ
-https://s45177.cdn.ngenix.net/hls/CH_R02_TOLPAR/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ул. Правда" tvg-logo="" group-title="Региональные",УлПравда ТВ
-https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Хамдан" tvg-logo="" group-title="Региональные",Хамдан
-http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Эфир" tvg-logo="" group-title="Региональные",Эфир
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
 #EXTINF:-1 tvg-id="express" tvg-name="Экспресс HD" tvg-logo="" group-title="Познавательные",Экспресс HD
 https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч ТВ" tvg-logo="" group-title="Спорт",Матч ТВ
