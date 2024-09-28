@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://gabbarit.page.link/epg"
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Советские мультфильмы" tvg-logo="" group-title="Сказки",Советские Мультфильмы
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Советские мультфильмы" tvg-logo="" group-title="Сказки",Советские мультфильмы
 http://s83.chas.tv:8081/chas/sovmulttv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Советское кино" tvg-logo="" group-title="Кинозалы USSR",Советское кино
 http://s83.chas.tv:8081/chas/sovkinotv.stream/playlist.m3u8
