@@ -303,8 +303,6 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Тивиком HD" tvg-logo="" group-title="Региональные",Тивиком HD
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТК Центр Красноярск" tvg-logo="" group-title="Региональные",ТК Центр Красноярск
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_CENTRKRSN/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНВ-Планета" tvg-logo="" group-title="Региональные",ТНВ Планета
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_TNV/variant.m3u8
 #EXTINF:-1 tvg-id="express" tvg-name="Экспресс HD" tvg-logo="" group-title="Познавательные",Экспресс HD
