@@ -299,7 +299,7 @@ https://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R01_TV21PLUS/variant.m3u8
 https://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8
 #EXTINF:-1 tvg-id="tv-in" tvg-name="ТВ-ИН-Магнитогорск" tvg-logo="" group-title="Региональные",ТВ-ИН Магнитогорск
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
-#EXTINF:-1 tvg-id="kolyma-plus" tvg-name="ТВ-Колыма-Плюс HD" tvg-logo="" group-title="Региональные",ТВ Колыма-Плюс HD
+#EXTINF:-1 tvg-id="kolyma-plus" tvg-name="ТВ-Колыма-Плюс HD" tvg-logo="" group-title="Региональные",ТВ-Колыма-Плюс
 https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_KOLYMA/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Тивиком HD" tvg-logo="" group-title="Региональные",Тивиком HD
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TIVICOM/variant.m3u8
