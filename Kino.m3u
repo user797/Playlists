@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://gabbarit.page.link/epg"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:0 tvg-id="kino-24"    timeshift="0", Kino 24
 #EXTGRP:Кино
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
