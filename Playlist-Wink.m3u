@@ -92,10 +92,6 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia1-sd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="" group-title="Новостные",Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="" group-title="Новостные",Россия 24
-http://s83.chas.tv:8081/chas/rossiya24-hq.stream/playlist.m3u8?&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=bG4wZHNBc0VuQ2ZmVENMTno4aHJId09SODFYNVUvc0NLYVN5c0prcWFJTT06OvCi4dnPFEsfUI2wP%2Bg9LWM%3D
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="" group-title="Новостные",Россия 24
-http://s83.chas.tv:8081/chas/rossiya24-hq.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="" group-title="Новостные",Россия 24
 https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Россия 24" tvg-logo="" group-title="Новостные",Россия 24
 https://streaming.televizor-24-tochka.ru/live/30.m3u8
