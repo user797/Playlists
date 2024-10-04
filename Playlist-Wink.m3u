@@ -4,9 +4,9 @@ http://hls.goodgame.ru/hls/198446.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мультики и Сказки" tvg-logo="" group-title="Сказки",Мультики и Сказки
 http://hls.goodgame.ru:8080/hls/198446.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Советские мультфильмы" tvg-logo="" group-title="Сказки",Советские мультфильмы
-http://s83.chas.tv:8081/chas/sovmulttv.stream/playlist.m3u8
+https://vsd230.mycdn.me/hls/4087089138284.m3u8/sig/DZeqI_x-Mbw/expires/1728140430481/srcIp/91.105.141.11/urls/185.226.53.83/clientType/0/srcAg/CHROME_ANDROID/mid/5385000066668/4087089138284_high/index.m3u8?p
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Советское кино" tvg-logo="" group-title="Кинозалы USSR",Советское кино
-http://s83.chas.tv:8081/chas/sovkinotv.stream/playlist.m3u8
+http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сибирь 24" tvg-logo="" group-title="Новостные",Сибирь 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/track_105_26b8d2e7/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сибирь 24" tvg-logo="" group-title="Новостные",Сибирь 24
