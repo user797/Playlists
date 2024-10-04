@@ -1,4 +1,7 @@
 #EXTM3U url-tvg="https://gabbarit.page.link/epg"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Классика Кино" tvg-logo="" group-title="Кино",Классика Кино
+
+https://s17.federal.tv:8082/fed/kkino.stream/chunks.m3u8?nimblesessionid=300825269&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI0IDQ6MTk6NDIgUE0maGFzaF92YWx1ZT1rM29rdDk2SXdvT3YvY1pFSVlUWENRPT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мультики и Сазки" tvg-logo="" group-title="Сказки",Мультики и Сказки
 http://hls.goodgame.ru/hls/198446.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мультики и Сказки" tvg-logo="" group-title="Сказки",Мультики и Сказки
