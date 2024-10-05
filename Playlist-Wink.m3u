@@ -5,8 +5,6 @@ https://s17.federal.tv:8082/fed/kkino.stream/chunks.m3u8?nimblesessionid=3008252
 http://hls.goodgame.ru/hls/198446.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мультики и Сказки" tvg-logo="" group-title="Сказки",Мультики и Сказки
 http://hls.goodgame.ru:8080/hls/198446.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Советские мультфильмы" tvg-logo="" group-title="Сказки",Советские Мультфильмы
-https://s17.federal.tv:8082/fed/sovmulttv.stream/chunks.m3u8?nimblesessionid=300811014&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDI0IDM6MjQ6MjkgUE0maGFzaF92YWx1ZT1tMGxyT2IyLzREQ2lIc1JtYnhlVS9RPT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Советское кино" tvg-logo="" group-title="Кинозалы USSR",Советское кино
 http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Сибирь 24" tvg-logo="" group-title="Новостные",Сибирь 24
