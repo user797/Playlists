@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://gabbarit.page.link/epg"
+#EXTM3U
 #EXTINF:-1 group-title="Кинозалы BOZZ" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg",Доктор Достоевский
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы BOZZ" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Star Media
