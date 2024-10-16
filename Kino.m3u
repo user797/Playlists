@@ -11,3 +11,8 @@ http://193.242.204.28:10061/61
 #EXTINF:0 tvg-id=""  tvg-logo="https://www.meme-arsenal.com/memes/00f92f4e25ab12b60448dd4300ba00cd.jpg"  timeshift="0", Советские фильмы
 #EXTGRP:Кино
 http://91.207.114.220:9001/play/a0aq/index.m3u8
+#EXTINF:0 tvg-id="Советское кино"  tvg-logo="https://iptvx.one/picons/sovkino.png"  timeshift="0", Советское кино 
+#EXTGRP:Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 10; Mobile; rv:123.0) Gecko/123.0 Firefox/123.0
+http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+
