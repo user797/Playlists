@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 #EXTINF:0 tvg-id=""  tvg-logo="https://iptvx.one/picons/sovmultf.png"  timeshift="0", Советские мультфильмы
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 10; Mobile; rv:123.0) Gecko/123.0 Firefox/123.0
