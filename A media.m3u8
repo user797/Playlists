@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://gabbarit.page.link/epg"
+#EXTM3U url-tvg=""
 #EXTINF:-1 group-title="Кинозалы 2" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W1_TEMP.png",WAR-1
 http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/5.m3u8
 #EXTINF:-1 group-title="Кинозалы 2" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/W2_TEMP.png",WAR-2
