@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-id=""  tvg-logo="https://iptvx.one/picons/sovmultf.png"  timeshift="0", Советские мультфильмы
 #EXTGRP:Детские
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 10; Mobile; rv:123.0) Gecko/123.0 Firefox/123.0
-https://mhd219.iptv2022.com/p/mrzG9VUcVQyR2ofZ5cxzTw,1729155987/streaming/rusmult/324/5/tracks-v5a1/mono.m3u8
+https://mhd140.iptv2022.com/p/KA4qcLbIDWyEntkh_gNSVA,1729856425/streaming/rusmult/324/5/tracks-v5a1/mono.m3u8
 #EXTINF:0 tvg-id=""   tvg-logo="https://sun1-94.userapi.com/HbcoGQvbaerf9JEAaSN5JtAubI5EDmmvubQ0_w/rT9Uhxtosr8.jpg"  timeshift="0", Мультики и Сказки
 #EXTGRP:Детские
 http://hls.goodgame.ru:8080/hls/198446.m3u8
