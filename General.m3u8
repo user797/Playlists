@@ -10,7 +10,7 @@ http://hls.goodgame.ru:8080/hls/198446.m3u8
 #EXTGRP:Региональные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 10; Mobile; rv:123.0) Gecko/123.0 Firefox/123.0
 http://rmhkuzbass.ru:8082/10kanal/10kanal_720/playlist.m3u8
-#EXTINF:0 tvg-id=""    timeshift="0", Соловьев Live
+#EXTINF:0 tvg-id=""  tvg-logo="https://iptvx.one/picons/solovjinypomiot.png"    timeshift="0", Соловьев Live
 #EXTGRP:Новостные
 https://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:0 tvg-id=""    timeshift="0", Известия HD
