@@ -8,6 +8,3 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:0 tvg-id="klassika-kino"  tvg-logo="https://iptvx.one/picons/klassika-kino.png"  timeshift="0", Классика Кино
 #EXTGRP:Кино
 http://193.242.204.28:10061/61
-#EXTINF:0 tvg-id=""  tvg-logo="https://www.meme-arsenal.com/memes/00f92f4e25ab12b60448dd4300ba00cd.jpg"  timeshift="0", Советские фильмы
-#EXTGRP:Кино
-http://91.207.114.220:9001/play/a0aq/index.m3u8
