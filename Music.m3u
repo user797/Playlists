@@ -1,4 +1,7 @@
 #EXTM3U url-tvg=""
+#EXTINF:0 tvg-id=""    timeshift="0", Bridge Classic
+#EXTGRP:Музыка
+http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id=""  tvg-logo="https://i.imgur.com/zLRzyVS.png"  timeshift="0", TV Arberia Retro Hits
 #EXTGRP:Музыка
 https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
