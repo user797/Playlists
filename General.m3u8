@@ -1,4 +1,7 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
+#EXTINF:0 tvg-id=""    timeshift="0", Соловьев Live 
+#EXTGRP:Новостные 
+http://130.193.73.10:8937/play/a002
 #EXTINF:0 url-tvg="https://epg.pw/api/epg.xml?lang=en&date=20241105&channel_id=6790 "    timeshift="0", 2x2 +4
 #EXTGRP:Общие
 http://91.194.191.241:8081/chid21/tracks-v1a1/mono.m3u8
