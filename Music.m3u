@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cmio591cw33aupc5ed7nx/Ocko-Gold.png?rlkey=v3new00af6yfqup6wz4hvta3d&dl=0",Ocko Gold
 #EXTGRP:Музыка
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
-#EXTINF:0,Retro Music
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nmdi1lzkiygklnx9r1l7w/Retro-Music.png?rlkey=f04kqi3b1ytiqyqep0qj8yh6n&dl=0",Retro Music
 #EXTGRP:Музыка
 http://hls.goodgame.ru/hls/206244.m3u8
 #EXTINF:0,TECHNO DANCE MUSIC
