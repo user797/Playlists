@@ -8,7 +8,7 @@ http://hls.goodgame.ru/hls/206244.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pyzsyvxcpe2pdmv3ocfny/TECHNO-DANCE-MUSIC.png?rlkey=0n6b6ig3kgpw5b8g84a3ruik8&dl=0",TECHNO DANCE MUSIC
 #EXTGRP:Музыка
 http://hlss.goodgame.ru/hls/180509.m3u8
-#EXTINF:0,TMF RUS
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kw0mql5x68kq7s6cl0ft4/TMF-RUS.png?rlkey=8fh4jbvd0e8mz3734dm6gcjw9&dl=0",TMF RUS
 #EXTGRP:Музыка
 https://hls.goodgame.ru/hls/201891.m3u8
 #EXTINF:0,Velilla TV Eurodance 90s
