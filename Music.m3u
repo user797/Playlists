@@ -11,7 +11,7 @@ http://hlss.goodgame.ru/hls/180509.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kw0mql5x68kq7s6cl0ft4/TMF-RUS.png?rlkey=8fh4jbvd0e8mz3734dm6gcjw9&dl=0",TMF RUS
 #EXTGRP:Музыка
 https://hls.goodgame.ru/hls/201891.m3u8
-#EXTINF:0,Velilla TV Eurodance 90s
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2kwbdcvnbs20uark3mi1y/Velilla-TV-Eurodance-90s.png?rlkey=757t9s329l4vjty3mzhbij2kd&dl=0",Velilla TV Eurodance 90s
 #EXTGRP:Музыка
 http://158.101.194.132:8888/channel/n1e74b88/index.m3u8?q=1bc085b2a6169370ce61b32c22c087e2
 #EXTINF:0 tvg-id=""    timeshift="0", Bridge Classic
