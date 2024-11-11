@@ -1,10 +1,4 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
-#EXTINF:0 tvg-id=""    timeshift="0", Соловьев Live 
-#EXTGRP:Новостные
-http://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
-#EXTINF:0 tvg-id=""    timeshift="0", Соловьев Live 
-#EXTGRP:Новостные
-http://130.193.73.10:8937/play/a002
 #EXTINF:0 url-tvg="https://epg.pw/api/epg.xml?lang=en&date=20241105&channel_id=6790 "    timeshift="0", 2x2 +4
 #EXTGRP:Общие
 http://91.194.191.241:8081/chid21/tracks-v1a1/mono.m3u8
@@ -24,6 +18,12 @@ http://hls.goodgame.ru:8080/hls/198446.m3u8
 #EXTGRP:Региональные
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 10; Mobile; rv:123.0) Gecko/123.0 Firefox/123.0
 http://rmhkuzbass.ru:8082/10kanal/10kanal_720/playlist.m3u8
+#EXTINF:0 tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" tvg-id="", Соловьев Live 
+#EXTGRP:Новостные
+http://player.smotrim.ru/iframe/stream/live_id/63338?43e=5.m3u8
+#EXTINF:0 tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" tvg-id="", Соловьев Live 
+#EXTGRP:Новостные
+http://130.193.73.10:8937/play/a002
 #EXTINF:0 tvg-id=""  tvg-logo="https://iptvx.one/picons/solovjinypomiot.png"    timeshift="0", Соловьев Live
 #EXTGRP:Новостные
 https://player.smotrim.ru/iframe/stream/live_id/63338
